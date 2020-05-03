@@ -55,6 +55,7 @@
     border: 3px solid #ff8c2c;
     background: url(../img/light-bulb.png) center no-repeat;
  }
+
  .border-keyboard {
     width: 70px;
     height: 70px;
@@ -63,6 +64,7 @@
     border: 3px solid #ff8c2c;
     background: url(../img/keyboard.png) center no-repeat;
  }
+
  .border-lightning {
     width: 70px;
     height: 70px;
